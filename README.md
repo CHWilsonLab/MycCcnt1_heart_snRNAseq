@@ -1,5 +1,5 @@
 # MycCcnt1_heart_snRNAseq
-##Myc role in cardiac regeneration
+## Myc role in cardiac regeneration
 
 Myc is a pleotropic transcription factor that serves as a pivotal, non-redundant instructor of tissue regeneration following injury. Myc expression in normal cells is tightly regulated. Following damage in a regenerative tissue, mitogenic stimulation leads to a transient increase in the short lived Myc protein and a burst of proliferation quickly follows. When Myc is deregulated it’s expression leads to uncontrolled cell cycle. Myc therefore plays a critical role in the progression and maintenance of tumours and is found deregulated in the vast majority of cancers. In addition to its cell intrinsic functions, Myc elicits tissue-specific transcriptional programmes that drive changes in the location and activity of stromal cells within the microenvironment.
 
