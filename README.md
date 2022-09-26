@@ -11,3 +11,7 @@ The novel insights from our work opens up exciting new therapeutic approaches (i
 The adult heart is one of the least regenerative organs of the body. After mammalian birth, cardiomyocytes exit the cell cycle and subsequently turnover very slowly. Consequently, following injury the adult mammalian heart is unable to regenerate by replenishing lost cardiomyocytes, the default response of the adult mammalian heart is to replace the lost cardiomyocytes with non-contractile fibrotic scar tissue that ultimately results in heart failure. Using the heart as a model system, we overexpressed Ccnt1 specifically in the heart with an adeno associated virus. Together with our acutely switchable MycERTM system, we have demonstrated that overexpression of Ccnt1 is sufficient to enable Myc driven transcription. Once enabled, Myc transcriptional activation led to extensive cell cycle entry through to cytokinesis and a large increase in cardiomyocyte number and heart size.
 
 We aim to determine if cardiomyocyte proliferation after Myc activation and Ccnt1 expression can drive functional heart regeneration and understand the long-term effects to the heart.
+
+## Single-nucleus RNA sequencing analysis of the Myc and Ccnt1 co-expression in the mouse heart
+
+The Wilson lab is interogating the effects of Myc activation in cardiomyocytes on the cell cycle progression and tissue regeneration.
